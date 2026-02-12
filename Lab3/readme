@@ -1,0 +1,6 @@
+About Dataset
+Context :
+The purpose of this dataset is to examine the major variables that affect students' academic achievement, especially their test results. It focuses on how the educational environment, learning resources, family history, and individual behaviors all influence student results. The dataset is helpful for machine learning models, educational research, and data science initiatives that seek to comprehend academic achievement and spot trends in high and low performance. It is appropriate for exploratory data analysis and predictive modeling since it offers a realistic picture of student life and learning environments.
+
+Content :
+Students' study hours, attendance, motivation level, availability to learning resources, parental participation, teacher quality, peer influence, and family background are all included in the dataset. It also include environmental and lifestyle elements including internet availability, sleep patterns, and school type. The dataset can be utilized for performance prediction and educational insights because the goal variable represents students' exam scores. Together, these characteristics create a comprehensive dataset that can be used to analyze the various factors that influence academic attainment.
